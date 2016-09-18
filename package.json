@@ -1,0 +1,21 @@
+{
+  "name": "seven-min-workout",
+  "version": "1.0.0",
+  "description": "Seven Minute Workout application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server –-port 3589",
+    "start": "npm run lite"
+  },
+  "keywords": [
+    "AngularJS",
+    "Packt"
+  ],
+  "author": "Luis Blanco",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "lite-server": "^2.2.2"
+  }
+}
